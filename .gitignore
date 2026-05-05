@@ -1,0 +1,27 @@
+# Build outputs
+bin/
+obj/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# PDF output (generated during compilation)
+*.pdf
+*.log
+*.out
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+
+# LaTeX temp files
+*-tex/
+!*-tex/.gitkeep
