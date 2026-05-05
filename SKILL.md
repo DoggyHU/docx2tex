@@ -79,9 +79,9 @@ converter 输出的 `main.tex` 使用 `report` 类 + `\usepackage{format}`。
 
 | Style ID | 映射 | 示例 |
 |----------|------|------|
-| `1` | `\section{}` | 一、工作背景 |
-| `2` | `\subsection{}` | （一）工作组织 |
-| `4` | `\subsubsection{}` | 1. 培肥改良土壤 |
+| `1` | `\section{}` | 一、项目概述 |
+| `2` | `\subsection{}` | （一）项目背景 |
+| `4` | `\subsubsection{}` | 1. 研究意义 |
 
 ### 路径 B：文本兜底（无样式时）
 
